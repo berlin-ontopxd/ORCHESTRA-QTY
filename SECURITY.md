@@ -39,7 +39,7 @@ If you found a problem in your self-hosted instance that appears to be due to mi
 - Contact info for follow-up.
 
 ## Incident reporting from self-hosted deployments
-If you operate a self-hosted TitanBot instance and suffer a security incident:
+If you operate a self-hosted OrchestraBot instance and suffer a security incident:
 - Immediately rotate any exposed secrets (bot token, DB credentials, API keys).
 - Take a snapshot of logs/configuration for investigation (avoid sharing secrets).
 - If you need upstream help, file a private security advisory and include sanitized reproduction steps and the TitanBot version/commit.
@@ -66,7 +66,7 @@ If you operate a self-hosted TitanBot instance and suffer a security incident:
 - We may assign a CVE or coordinate with CERT/other bodies for high-severity issues.
 
 ## Privacy & Telemetry
-- TitanBot does not phone home or collect usage data by default. (If you plan to add telemetry, it must be opt-in, documented, and transparent.)
+- OrchestraBot does not phone home or collect usage data by default. (If you plan to add telemetry, it must be opt-in, documented, and transparent.)
 - Maintainers do not receive data from self-hosted instances. If you choose to enable any telemetry, document what is collected and how to opt out.
 
 ## Contact
