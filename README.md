@@ -1,6 +1,6 @@
-# TitanBot - Ultimate Discord Bot
+# ORCHESTRA  - Ultimate Discord Bot
 
-**TitanBot** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. Built with modern Discord.js v14 and PostgreSQL for optimal performance and data persistence.
+**OrchestraBot** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. Built with modern Discord.js v14 and PostgreSQL for optimal performance and data persistence.
 
 [![Support Server](https://img.shields.io/badge/-Support%20Server-%235865F2?logo=discord&logoColor=white&style=flat-square&logoWidth=20)](https://discord.gg/8kJBYhTGW9)
 [![Discord.js](https://img.shields.io/npm/v/discord.js?style=flat-square&labelColor=%23202225&color=%23202225&logo=npm&logoColor=white&logoWidth=20)](https://www.npmjs.com/package/discord.js)
@@ -11,14 +11,14 @@
 - [Features Overview](#features-overview)
 - [Quick Setup](#quick-setup)
 - [Manual Installation Steps](#manual-installation-steps)
-- [Support Server](https://discord.gg/QnWNz2dKCE)
+- [Support Server](https://discord.gg/lovebite)
 - [Required Bot Intents](#bot-intents)
 - [Contributing](#contributing)
 
 <a name="features-overview"></a>
 ## Features Overview
 
-TitanBot offers a complete suite of tools for Discord server management and community engagement:
+OrchestraBot offers a complete suite of tools for Discord server management and community engagement:
 
 <table>
 <tr>
@@ -89,13 +89,8 @@ TitanBot offers a complete suite of tools for Discord server management and comm
 <a name="quick-setup"></a>
 ## Quick Setup (Recommended for non-coders)
 
-### Video Tutorial
-For a detailed step-by-step setup guide, watch our comprehensive video tutorial:
-[**TitanBot Setup Tutorial**](https://www.youtube.com/@TouchDisc)
-
 ## Docker Deployment (Recommended)
-
-TitanBot is fully containerized for easy deployment.
+OrchestraBot  is fully containerized for easy deployment.
 
 1. **Clone the repository:**
    ```bash
@@ -131,8 +126,8 @@ docker pull ghcr.io/codebymitch/titanbot:main
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/codebymitch/TitanBot.git
-   cd TitanBot
+   git clone https://github.com/codebymitch/OrchestraBot.git
+   cd Orchestrabot
    ```
 
 2. **Install Dependencies**
@@ -203,7 +198,7 @@ docker pull ghcr.io/codebymitch/titanbot:main
 <a name="bot-intents"></a>
 
 ## Required Bot Intents
-TitanBot requires the following Discord intents:
+OrchestraBot requires the following Discord intents:
 - **Guilds**
 - **Guild Messages**
 - **Message Content**
@@ -232,7 +227,7 @@ TitanBot requires the following Discord intents:
 <a name="contributing"></a>
 ## Contributing
 
-We welcome contributions to TitanBot! Here's how you can help:
+We welcome contributions to OrchestraBot! Here's how you can help:
 
 1. **Fork the repository**
 2. **Create a feature branch**
@@ -248,10 +243,10 @@ We welcome contributions to TitanBot! Here's how you can help:
 
 ## License
 
-TitanBot is released under the MIT License. See [LICENSE](LICENSE) for details.
+OrchestraBot is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Thank You
 
-Thank you for choosing TitanBot for your Discord server! We're constantly working to improve and add new features based on community feedback.
+Thank you for choosing  OrchestraBot for your Discord server! We're constantly working to improve and add new features based on community feedback.
 
 *Last updated: May 2026*
