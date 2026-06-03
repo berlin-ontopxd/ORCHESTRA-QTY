@@ -73,4 +73,4 @@ If you operate a self-hosted OrchestraBot instance and suffer a security inciden
 - Preferred: GitHub Security Advisory for this repository
 - Ticket: https:
 
-Thank you for helping keep TitanBot safe.
+Thank you for helping keep OrchestraBot safe.
